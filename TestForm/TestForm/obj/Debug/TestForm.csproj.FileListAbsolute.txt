@@ -1,0 +1,11 @@
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.Saver.resources
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.Game.resources
+C:\Users\Dampel\Desktop\WinForms\TestForm\TestForm\obj\Debug\TestForm.GameField.resources
